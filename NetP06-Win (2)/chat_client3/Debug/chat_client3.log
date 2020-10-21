@@ -1,0 +1,9 @@
+﻿  chat_client3.c
+C:\Users\whgkd\OneDrive\바탕 화면\NetP06-Win (2)\chat_client3\chat_client3.c(76,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\whgkd\OneDrive\바탕 화면\NetP06-Win (2)\chat_client3\chat_client3.c(111,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\whgkd\OneDrive\바탕 화면\NetP06-Win (2)\chat_client3\chat_client3.c(132,7): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+C:\Users\whgkd\OneDrive\바탕 화면\NetP06-Win (2)\chat_client3\chat_client3.c(63,12): warning C4101: 'len_in' :참조되지 않은 지역 변수입니다.
+C:\Users\whgkd\OneDrive\바탕 화면\NetP06-Win (2)\chat_client3\chat_client3.c(119,6): warning C4101: 'maxfdp1' :참조되지 않은 지역 변수입니다.
+C:\Users\whgkd\OneDrive\바탕 화면\NetP06-Win (2)\chat_client3\chat_client3.c(63,20): warning C4101: 'len_out' :참조되지 않은 지역 변수입니다.
+C:\Users\whgkd\OneDrive\바탕 화면\NetP06-Win (2)\chat_client3\chat_client3.c(173,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  chat_client3.vcxproj -> C:\Users\whgkd\OneDrive\바탕 화면\NetP06-Win (2)\Debug\chat_client3.exe
